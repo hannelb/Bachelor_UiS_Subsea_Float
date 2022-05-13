@@ -1,2 +1,2 @@
-# Bachelor thesis written for UiS Subsea 2022
+# Bacheloroppgave skrevet for UiS Subsea 2022
 
